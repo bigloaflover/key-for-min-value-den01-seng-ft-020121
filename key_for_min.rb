@@ -4,6 +4,6 @@
 def key_for_min_value(name_hash)
   low_number = nil 
   low_name = nil 
-  
+  name_hash
   
 end
